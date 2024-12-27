@@ -59,4 +59,4 @@ Fields: Division, Product Code, Product, Total Sold Quantity, Rank
 
 ## 📎 Link:
 
-### 💼 [Linkedin Post]()
+### 💼 [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7277649500687466496/)
